@@ -1,0 +1,6 @@
+# boas práticas - merger / rebase
+> está atualizando sua branch pegando as coisas do master
+>> use rebase (pull --rebase)
+
+> terminou sua feature no branch e quer jogar para o master ?
+use merger
